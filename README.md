@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @e4gross
 - 👀 I’m interested in becoming a front-end developer
 - 🌱 I’m currently learning HTML, JavaScript, CSS, WordPress
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 e4gross/e4gross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
